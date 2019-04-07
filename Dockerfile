@@ -10,3 +10,4 @@ RUN apk add --no-cache \
     python \
     ffmpeg
     openjdk-11-jre-headless
+
