@@ -9,5 +9,3 @@ RUN apk add --no-cache \
     giflib-dev \
     python \
     ffmpeg
-    openjdk-11-jre-headless
-
